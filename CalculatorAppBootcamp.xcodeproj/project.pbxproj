@@ -7,26 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		E9A31E222F98B30200E05026 /* Hesap Makinesi Bootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hesap Makinesi Bootcamp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E9A31E222F98B30200E05026 /* CalculatorAppBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalculatorAppBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		E9A31E342F98B30400E05026 /* Exceptions for "Hesap Makinesi Bootcamp" folder in "Hesap Makinesi Bootcamp" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = E9A31E212F98B30200E05026 /* Hesap Makinesi Bootcamp */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		E9A31E242F98B30200E05026 /* Hesap Makinesi Bootcamp */ = {
+		E9A31E242F98B30200E05026 /* CalculatorAppBootcamp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				E9A31E342F98B30400E05026 /* Exceptions for "Hesap Makinesi Bootcamp" folder in "Hesap Makinesi Bootcamp" target */,
-			);
-			path = "Hesap Makinesi Bootcamp";
+			path = CalculatorAppBootcamp;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +32,7 @@
 		E9A31E192F98B30200E05026 = {
 			isa = PBXGroup;
 			children = (
-				E9A31E242F98B30200E05026 /* Hesap Makinesi Bootcamp */,
+				E9A31E242F98B30200E05026 /* CalculatorAppBootcamp */,
 				E9A31E232F98B30200E05026 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +40,7 @@
 		E9A31E232F98B30200E05026 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E9A31E222F98B30200E05026 /* Hesap Makinesi Bootcamp.app */,
+				E9A31E222F98B30200E05026 /* CalculatorAppBootcamp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E9A31E212F98B30200E05026 /* Hesap Makinesi Bootcamp */ = {
+		E9A31E212F98B30200E05026 /* CalculatorAppBootcamp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E9A31E352F98B30400E05026 /* Build configuration list for PBXNativeTarget "Hesap Makinesi Bootcamp" */;
+			buildConfigurationList = E9A31E352F98B30400E05026 /* Build configuration list for PBXNativeTarget "CalculatorAppBootcamp" */;
 			buildPhases = (
 				E9A31E1E2F98B30200E05026 /* Sources */,
 				E9A31E1F2F98B30200E05026 /* Frameworks */,
@@ -74,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				E9A31E242F98B30200E05026 /* Hesap Makinesi Bootcamp */,
+				E9A31E242F98B30200E05026 /* CalculatorAppBootcamp */,
 			);
-			name = "Hesap Makinesi Bootcamp";
+			name = CalculatorAppBootcamp;
 			packageProductDependencies = (
 			);
 			productName = "Hesap Makinesi Bootcamp";
-			productReference = E9A31E222F98B30200E05026 /* Hesap Makinesi Bootcamp.app */;
+			productReference = E9A31E222F98B30200E05026 /* CalculatorAppBootcamp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E9A31E1D2F98B30200E05026 /* Build configuration list for PBXProject "Hesap Makinesi Bootcamp" */;
+			buildConfigurationList = E9A31E1D2F98B30200E05026 /* Build configuration list for PBXProject "CalculatorAppBootcamp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -112,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E9A31E212F98B30200E05026 /* Hesap Makinesi Bootcamp */,
+				E9A31E212F98B30200E05026 /* CalculatorAppBootcamp */,
 			);
 		};
 /* End PBXProject section */
@@ -326,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E9A31E1D2F98B30200E05026 /* Build configuration list for PBXProject "Hesap Makinesi Bootcamp" */ = {
+		E9A31E1D2F98B30200E05026 /* Build configuration list for PBXProject "CalculatorAppBootcamp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E9A31E382F98B30400E05026 /* Debug */,
@@ -335,7 +322,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E9A31E352F98B30400E05026 /* Build configuration list for PBXNativeTarget "Hesap Makinesi Bootcamp" */ = {
+		E9A31E352F98B30400E05026 /* Build configuration list for PBXNativeTarget "CalculatorAppBootcamp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E9A31E362F98B30400E05026 /* Debug */,
